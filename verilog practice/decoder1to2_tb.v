@@ -3,8 +3,10 @@
 
 module decoder1to2_tb;
 
-	reg A;
-	wire [1:0]D;
+reg A;
+wire [1:0]D;
+
+decoder1to2 uut(A, D);
 
 initial begin
 
