@@ -3,5 +3,4 @@ module uart
 	
 );
 
-
 endmodule

@@ -4,7 +4,7 @@ The FPGA consists of logic elements such as AND, OR, NAND, NOR, XOR, NOT, etc., 
 
 A chip is a set of components that perform various functions, while they are combined into a common circuit.
 
-The chip includes:
+The chip includes: 
 1. Transistors. These are the main semiconductor elements that help in creating logic circuits.
 2. Capacitors. These devices accumulate and store an electric charge.
 3. Resistors. Passive elements of microchips. They are responsible for the differentiation and absorption of the current flow.

@@ -7,7 +7,7 @@ UART (Universal Asynchronous Receiver-Transmitter) is a node of computing device
 digital devices. Converts the transmitted data into a serial format so that it is possible to transfer them over one physical digital 
 line to another similar device
 
-The principle of operation:
+The principle of operation: 
 
 1. Data is transmitted one bit at a time at regular intervals. This time interval is determined by the specified UART speed and is 
 specified in baud for a specific connection (which in this case corresponds to bits per second).
