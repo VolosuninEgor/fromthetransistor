@@ -10,7 +10,7 @@ reg [31:0]count; // 32-bit counter
 	end else begin
 	count <= count + 1; // counts 100MHz clock
 	end
-
+ 
 end
 
 endmodule

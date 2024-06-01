@@ -5,7 +5,7 @@ Verilog is a fairly simple language, similar to the C programming language in bo
 
 UART (Universal Asynchronous Receiver-Transmitter) is a node of computing devices designed to organize communication with other 
 digital devices. Converts the transmitted data into a serial format so that it is possible to transfer them over one physical digital 
-line to another similar device
+line to another similar device 
 
 The principle of operation: 
 

@@ -9,7 +9,7 @@ The chip includes:
 2. Capacitors. These devices accumulate and store an electric charge.
 3. Resistors. Passive elements of microchips. They are responsible for the differentiation and absorption of the current flow.
 4. Diodes.
-
+ 
 A LUT (Look-Up Table) is a conversion table that is used in FPGA. You can use it to implement any logical function.
 The LUT consists of 1-bit memory cells and multiplexers. When a combination of digital signals is applied to the LUT inputs,
 it perceives them as an address and outputs the contents of the cell at this address.
