@@ -9,7 +9,7 @@ module "decoder1to2_tb.v";
 initial begin
 
 	$dumpfile("decoder1to2_tb.vcd");
-	$dumpvar(0, decoder1to2_tb.v);
+	$dumpvar(0, decoder1to2_tb);
 
 	A = 0; #20;
 	A = 1; #20;
