@@ -11,7 +11,7 @@ decoder1to2 uut(A, D);
 initial begin
 
 	$dumpfile("decoder1to2_tb.vcd");
-	$dumpvar(0, decoder1to2_tb);
+	$dumpvars(0, decoder1to2_tb);
 
 	A = 0; #20;
 	A = 1; #20;
