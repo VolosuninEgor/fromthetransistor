@@ -22,5 +22,4 @@ initial begin
 	A = 3'b111; #20;
 end
 
-
 endmodule
