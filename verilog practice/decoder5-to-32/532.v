@@ -1,4 +1,14 @@
 
+module top(A, D);
+
+input [4:0]A;
+output [31:0]D;
+
+decoder5to32 UO(A, D);
+
+endmodule
+
+
 // 5 to 32 decoder
 module decoder5to32(A, D);
 
