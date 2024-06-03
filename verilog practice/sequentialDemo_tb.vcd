@@ -1,0 +1,84 @@
+$date
+	Mon Jun 03 11:09:44 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module sequentialDemo_tb $end
+$var wire 1 ! Z $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ CLK $end
+$scope module UUT $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ CLK $end
+$var wire 1 ! Z $end
+$var reg 1 % D $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+1$
+0#
+0"
+0!
+$end
+#10
+0$
+#20
+1$
+1"
+1#
+#30
+0$
+#40
+1!
+1%
+1$
+0"
+#50
+0$
+#60
+1$
+0#
+#70
+0$
+#80
+1$
+1"
+1#
+#90
+0$
+#100
+0!
+0%
+1$
+0#
+#110
+0$
+#120
+1!
+1%
+1$
+0"
+1#
+#130
+0$
+#140
+0!
+0%
+1$
+1"
+0#
+#150
+0$
+#160
+1!
+1%
+1$
